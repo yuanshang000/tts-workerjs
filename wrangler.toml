@@ -1,0 +1,9 @@
+name = "edge-tts-web"
+main = "worker.js"
+compatibility_date = "2025-10-01"
+
+# 免费版 Workers 即可运行（每天 10 万次请求额度）。
+# 绑定自定义域名（可选）：取消注释并改成你的域名。
+# routes = [
+#   { pattern = "tts.example.com", custom_domain = true }
+# ]

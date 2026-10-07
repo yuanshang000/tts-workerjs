@@ -1,0 +1,31 @@
+1
+00:00:00,100 --> 00:00:02,863
+Artificial intelligence is transforming the way
+
+2
+00:00:02,875 --> 00:00:06,375
+we build software Cloudflare Workers lets developers
+
+3
+00:00:06,388 --> 00:00:09,300
+deploy code to hundreds of cities around the world
+
+4
+00:00:09,663 --> 00:00:12,688
+This project ports the Microsoft Edge text to speech
+
+5
+00:00:12,700 --> 00:00:16,438
+engine to a single JavaScript file It supports multiple
+
+6
+00:00:16,450 --> 00:00:21,050
+voices adjustable rate pitch volume and real subtitles
+
+7
+00:00:21,063 --> 00:00:24,088
+generated from word boundaries Everything runs on
+
+8
+00:00:24,100 --> 00:00:26,450
+the edge with no servers to maintain

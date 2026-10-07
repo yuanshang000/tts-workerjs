@@ -1,0 +1,6 @@
+{
+  "name": "edge-tts-worker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module"
+}

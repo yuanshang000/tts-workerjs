@@ -1,0 +1,11 @@
+# wrangler 本地状态（缓存、账号信息、dev 数据库）—— 绝不入库
+.wrangler/
+
+# 本地测试产物
+test-output/
+
+# 依赖
+node_modules/
+
+# 日志
+*.log
